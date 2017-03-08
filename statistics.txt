@@ -1,0 +1,150 @@
+Word, that you have learned the best: Word [wordInPolish=SZKOLA, wordInEnglish=SCHOOL, howManyTimesAsked=6.0, howManyTimesCorrectAnswer=5.0]
+Your learn ratio: 0.7291666666666666
+Your learn level: MEDIUM
+
+
+Word, that you have learned the best: Word [wordInPolish=OKO, wordInEnglish=EYE, howManyTimesAsked=2.0, howManyTimesCorrectAnswer=2.0]
+Your learn ratio: 0.75
+Your learn level: MEDIUM
+
+
+Word, that you have learned the best: Word [wordInPolish=OKO, wordInEnglish=EYE, howManyTimesAsked=0.0, howManyTimesCorrectAnswer=0.0]
+Your learn ratio: 0.0
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=OKO, wordInEnglish=EYE, howManyTimesAsked=3.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.08333333333333333
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=OKO, wordInEnglish=EYE, howManyTimesAsked=1.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.45
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=JEDZENIE, wordInEnglish=FOOD, howManyTimesAsked=1.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.5
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=JEDZENIE, wordInEnglish=FOOD, howManyTimesAsked=2.0, howManyTimesCorrectAnswer=2.0]
+Your learn ratio: 0.875
+Your learn level: GOOD
+
+
+Word, that you have learned the best: Word [wordInPolish=REKA, wordInEnglish=HAND, howManyTimesAsked=1.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.25
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=REKA, wordInEnglish=HAND, howManyTimesAsked=1.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.25
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=REKA, wordInEnglish=HAND, howManyTimesAsked=1.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.14285714285714285
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=JEDZENIE, wordInEnglish=FOOD, howManyTimesAsked=1.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.14285714285714285
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=JEDZENIE, wordInEnglish=FOOD, howManyTimesAsked=1.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.14285714285714285
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=JEDZENIE, wordInEnglish=FOOD, howManyTimesAsked=1.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.14285714285714285
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=SD, wordInEnglish=FS, howManyTimesAsked=2.0, howManyTimesCorrectAnswer=0.0]
+Your learn ratio: 0.0
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=DZIEN, wordInEnglish=DAY, howManyTimesAsked=1.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.3333333333333333
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=MYSZ, wordInEnglish=MOUSE, howManyTimesAsked=1.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.4
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=PIES, wordInEnglish=DOG, howManyTimesAsked=1.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 1.0
+Your learn level: GOOD
+
+
+Word, that you have learned the best: Word [wordInPolish=DZIEN, wordInEnglish=DAY, howManyTimesAsked=5.0, howManyTimesCorrectAnswer=5.0]
+Your learn ratio: 1.0
+Your learn level: GOOD
+
+
+Word, that you have learned the best: Word [wordInPolish=DZIEN, wordInEnglish=DAY, howManyTimesAsked=2.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.16666666666666666
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=DZIEN, wordInEnglish=DAY, howManyTimesAsked=2.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.25
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=JEDZENIE, wordInEnglish=FOOD, howManyTimesAsked=2.0, howManyTimesCorrectAnswer=2.0]
+Your learn ratio: 0.2857142857142857
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=null, wordInEnglish=null, howManyTimesAsked=0.0, howManyTimesCorrectAnswer=0.0]
+Your learn ratio: 0.0
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=REKA, wordInEnglish=HAND, howManyTimesAsked=1.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.14285714285714285
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=REKA, wordInEnglish=HAND, howManyTimesAsked=1.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.1
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=OKO, wordInEnglish=EYE, howManyTimesAsked=1.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.5
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=REKA, wordInEnglish=HAND, howManyTimesAsked=1.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.1
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=ZEGAR, wordInEnglish=CLOCK, howManyTimesAsked=1.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.1
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=SZKLO, wordInEnglish=GLASS, howManyTimesAsked=1.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.2
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=null, wordInEnglish=null, howManyTimesAsked=0.0, howManyTimesCorrectAnswer=0.0]
+Your learn ratio: 0.0
+Your learn level: BAD
+
+
+Word, that you have learned the best: Word [wordInPolish=KOSC, wordInEnglish=BONE, howManyTimesAsked=1.0, howManyTimesCorrectAnswer=1.0]
+Your learn ratio: 0.1
+Your learn level: BAD
+
+
