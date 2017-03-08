@@ -1,3 +1,7 @@
+/*
+ * Aplikacja napisana w ramach szkolenia. www.km-programs.pl
+ */
+
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.Arrays;
@@ -136,7 +140,6 @@ public class Word {
 			int c = 0;
 			while (sc.hasNextLine()) {
 				words = sc.nextLine().split(";");
-				//wyrazenie regularne!!!!!
 				c = 0;
 				for (int i = 0; i < words[0].length(); i++) {
 					if ((int) words[0].charAt(i) < 65 || (int) words[0].charAt(i) > 90) {

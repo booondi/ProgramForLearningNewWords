@@ -1,3 +1,7 @@
+/*
+ * Aplikacja napisana w ramach szkolenia. www.km-programs.pl
+ */
+
 import java.util.Random;
 import java.util.Scanner;
 

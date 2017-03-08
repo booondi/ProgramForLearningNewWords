@@ -1,3 +1,7 @@
+/*
+ * Aplikacja napisana w ramach szkolenia. www.km-programs.pl
+ */
+
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -14,10 +18,8 @@ public class WordsSet {
 		this.word = word;
 	}
 
-	//zrob osobna funkcje prywatna ktora na podstawie nazwy pliku obliczy ile masz elementow do wziecia
 	public WordsSet(int arrayLength, String nameFile) {
 
-		//tutaj obliczasz ile potrzebuejsz rozmiar
 		Word[] array = new Word[arrayLength];
 
 		for (int i = 0; i < arrayLength; i++) {

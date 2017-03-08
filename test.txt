@@ -1,7 +1,0 @@
-jedzenie;Food
-DRZEWO;TREE
-OKO;EYE
-KOSC;BONE
-OKO;EYE
-KOSC;BONE
-oko;EYE
